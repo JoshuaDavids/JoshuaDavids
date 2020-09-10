@@ -1,4 +1,4 @@
-### Hi there, I'm [Joshua](https://joshuadavids.netlify.app/) 👋
+### Hi there, I'm [Joshua Davids](https://joshuadavids.netlify.app/) 👋
 
 ## I'm a Junior Frontend Web Developer, Tutor, Teacher, Student!
 - 🔭 I plan on building my own blog
