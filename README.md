@@ -2,6 +2,8 @@
 
 [![Instagram Follow](https://img.shields.io/badge/%20-red?style=for-the-badge&logo=instagram&logoColor=ff0086&label=Follow%20%40CalebCanCode&labelColor=5f6369&color=ff0086&link=https%3A%2F%2Fwww.instagram.com%2Fcalebcancode%2F)](https://www.instagram.com/calebcancode/)
 
+![Spotify](https://joshua-davids-spotify-readme.vercel.app/api/spotify)(https://open.spotify.com/user/31pwmbclabdkrpjrkwdwk2goumny)
+
 ## I'm a Student and Developer!
 
 - 🔭 I'm currently building [NanoCore, a basic Operating System](https://github.com/JoshuaDavids/Personal.Nano-Core-OS)!
