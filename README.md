@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua Caleb Davids 👋🏽
+# Hi there, I'm Joshua Davids - aka Caleb 👋🏽
 
 [![Instagram Follow](https://img.shields.io/badge/%20-red?style=for-the-badge&logo=instagram&logoColor=ff0086&label=Follow%20%40CalebCanCode&labelColor=5f6369&color=ff0086&link=https%3A%2F%2Fwww.instagram.com%2Fcalebcancode%2F)](https://www.instagram.com/calebcancode/)
 
