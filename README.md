@@ -10,6 +10,10 @@
 - 🥅 2024 Goals: Code some more personal projects
 - ⚡ Fun Fact: I enjoy late night drives, rugby and spending time with the homies
 
+### Spotify Playing
+
+[![Spotify](https://joshua-davids-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31pwmbclabdkrpjrkwdwk2goumny)
+
 ### Connect with me
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/joshuacalebdavids/#gh-light-mode-only)
@@ -45,10 +49,4 @@
   <summary>:zap: GitHub Stats</summary>
   <br/>
   <img align="left" alt="JoshuaDavids's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoshuaDavids&show_icons=true&hide_border=false&title_color=34dc86&icon_color=04b359&bg_color=0a0c10&text_color=ffffff&border_color=34dc86" />
-</details>
-<br />
-<details>
-  <summary>:zap: Now Playing on Spotify</summary>
-  <br/>
-  [![Spotify](https://joshua-davids-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31pwmbclabdkrpjrkwdwk2goumny)
 </details>
