@@ -1,5 +1,7 @@
 # Hi there, I'm Joshua Caleb Davids 👋🏽
 
+[![Instagram Follow](https://img.shields.io/tinstagram/follow/calebcancode?color=E1306C&logo=instagram&style=for-the-badge)](https://www.instagram.com/calebcancode/)
+
 ## I'm a Student and Developer!
 
 - 🔭 I'm currently building [NanoCore, a basic Operating System](https://github.com/JoshuaDavids/Personal.Nano-Core-OS)!
