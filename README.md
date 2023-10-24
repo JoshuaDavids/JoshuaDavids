@@ -1,12 +1,12 @@
-### Hi there, I'm Joshua Caleb Davids 👋🏽
+# Hi there, I'm Joshua Caleb Davids 👋🏽
 
 ## I'm a Student and Developer!
 
-- I'm currently building a [small operating system](https://github.com/JoshuaDavids/Personal.Nano-Core-OS)!
-- I'm currently learning C, C++ and C#
-- I'm looking to build more complicated projects
-- 2024 Goals: Code some more personal projects
-- Fun Fact: I enjoy late night drives, rugby and spending time with the homies
+- 🔭 I'm currently building [NanoCore, a basic Operating System](https://github.com/JoshuaDavids/Personal.Nano-Core-OS)!
+- 🌱 I'm currently learning C, C++ and C#
+- 💻 I'm looking to build more complicated projects
+- 🥅 2024 Goals: Code some more personal projects
+- ⚡ Fun Fact: I enjoy late night drives, rugby and spending time with the homies
 
 ### Connect with me
 
@@ -35,6 +35,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<br/>
 
 ---
 
