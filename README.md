@@ -1,3 +1,5 @@
+<img src="./img/banners/bannerV1.png" alt="banner-image" width="845"/>
+
 # Hi there, I'm Joshua - aka Caleb 👋🏽
 
 [![Linkedin Follow](https://img.shields.io/badge/%20-red?style=for-the-badge&logo=linkedin&logoColor=0072b1&label=FOLLOW%20%40JOSHUACALEBDAVIDS&labelColor=5f6369&color=0072b1&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoshuacalebdavids%2F)](https://www.linkedin.com/in/joshuacalebdavids/)
