@@ -1,4 +1,4 @@
-<img src="./img/banners/bannerV1.png" alt="banner-image" width="845"/>
+<img src="./img/banners/bannerV2.png" alt="banner-image" width="845"/>
 
 # Hi there, I'm Joshua - aka Caleb 👋🏽
 
