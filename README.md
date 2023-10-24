@@ -18,7 +18,7 @@
 
 [![Spotify](https://joshua-davids-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31pwmbclabdkrpjrkwdwk2goumny)
 
-### 🔗 Connect with me:
+### 🔗 Connect with Me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/joshuacalebdavids/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joshuacalebdavids/#gh-dark-mode-only)
