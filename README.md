@@ -1,6 +1,8 @@
 # Hi there, I'm Joshua - aka Caleb 👋🏽
 
+[![Linkedin Follow](https://img.shields.io/badge/%20-red?style=for-the-badge&logo=linkedin&logoColor=0072b1&label=FOLLOW%20%40JOSHUACALEBDAVIDS&labelColor=5f6369&color=0072b1&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoshuacalebdavids%2F)](https://www.linkedin.com/in/joshuacalebdavids/)
 [![Instagram Follow](https://img.shields.io/badge/%20-red?style=for-the-badge&logo=instagram&logoColor=ff0086&label=Follow%20%40CalebCanCode&labelColor=5f6369&color=ff0086&link=https%3A%2F%2Fwww.instagram.com%2Fcalebcancode%2F)](https://www.instagram.com/calebcancode/)
+[![Codepen Follow](https://img.shields.io/badge/%20-red?style=for-the-badge&logo=codepen&logoColor=34dc86&label=FOLLOW%20%40JoshuaDavids&labelColor=5f6369&color=34dc86&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoshuacalebdavids%2F)](https://codepen.io/JoshuaDavids)
 
 ## I'm a Student and Developer!
 
