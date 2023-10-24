@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning C, C++ and C#
 - 💻 I'm looking to build more complicated projects
 - 🥅 2024 Goals: Code some more personal projects
-- ⚡ Fun Fact: I enjoy late night drives, rugby and spending time with the homies
+- ⚡ Fun Fact: I enjoy late night drives, rugby and spending time with those close to me
 
 ### 🎧 Now Playing on Spotify:
 
