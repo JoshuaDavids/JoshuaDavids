@@ -9,7 +9,7 @@
 ## 🧑🏽 I'm a Student and Developer!
 
 - 🔭 I'm currently building [NanoCore, a basic Operating System](https://github.com/JoshuaDavids/Personal.Nano-Core-OS)!
-- 🌱 I'm currently learning C, C++ and C#
+- 🌱 I'm currently learning C
 - 💻 I'm looking to build more complicated projects
 - 🥅 2024 Goals: Code some more personal projects
 - ⚡ Fun Fact: I enjoy late night drives, rugby and spending time with those close to me
